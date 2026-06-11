@@ -1,0 +1,5 @@
+warehouse.json
+zayavka.txt
+.env
+__pycache__/
+*.pyc

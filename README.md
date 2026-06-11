@@ -1,2 +1,48 @@
-# aresta-soft
-▓ ARESTA SOFT ▓ — система управления складом аккаунтов ДЛЯ FUN PAY!!!!!!!!!
+# ▓ ARESTA SOFT ▓
+### Warehouse Management System v1.0
+
+---
+
+## ⚡ Установка и запуск (1 команда)
+
+### Windows — PowerShell
+```powershell
+git clone https://github.com/ТВОЙ_НИК/aresta-soft; cd aresta-soft; python aresta_soft.py
+```
+
+### Windows — CMD
+```cmd
+git clone https://github.com/ТВОЙ_НИК/aresta-soft && cd aresta-soft && python aresta_soft.py
+```
+
+---
+
+## 📋 Требования
+- [Python 3](https://python.org/downloads) — скачать и установить (при установке поставить галочку **Add to PATH**)
+- [Git](https://git-scm.com/downloads) — скачать и установить
+
+---
+
+## 🗂 Функции
+
+| # | Функция |
+|---|---------|
+| 1 | Загрузить данные аккаунта на склад |
+| 2 | Открыть склад (пароль защищён) |
+| 3 | Статистика склада |
+| 4 | Стать поставщиком → Telegram |
+| 5 | Выход |
+
+---
+
+## 📁 Файлы
+| Файл | Описание |
+|------|----------|
+| `aresta_soft.py` | Основная программа |
+| `warehouse.json` | База данных склада (создаётся автоматически) |
+| `zayavka.txt` | Заявка поставщика (создаётся при заполнении) |
+
+---
+
+## ✈ Telegram
+**@arestakratikspredlok_bot** — бот для поставщиков
