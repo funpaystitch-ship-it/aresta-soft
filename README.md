@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/28827128/README.1.md)[README (1).md](https://github.com/user-attachments/files/28827126/README.1.md)
 # ▓ ARESTA SOFT ▓
 ### Warehouse Management System v1.0
 
@@ -5,14 +6,14 @@
 
 ## ⚡ Установка и запуск (1 команда)
 
-### Windows — PowerShell
-```powershell
-git clone https://github.com/ТВОЙ_НИК/aresta-soft; cd aresta-soft; python aresta_soft.py
+### CMD (Командная строка)
+```cmd
+git clone https://github.com/funpaystitch-ship-it/aresta-soft && cd aresta-soft && python aresta_soft.py
 ```
 
-### Windows — CMD
-```cmd
-git clone https://github.com/ТВОЙ_НИК/aresta-soft && cd aresta-soft && python aresta_soft.py
+### PowerShell
+```powershell
+git clone https://github.com/funpaystitch-ship-it/aresta-soft; cd aresta-soft; python aresta_soft.py
 ```
 
 ---
