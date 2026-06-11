@@ -1,5 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/28827128/README.1.md)[README (1).md](https://github.com/user-attachments/files/28827126/README.1.md)
-# ▓ ARESTA SOFT ▓
+# ▓ ARESTA SOFT ▓ ПРОГРАММА ДЛЯ ПОСТАВЩИКОВ FUN PAY
 ### Warehouse Management System v1.0
 
 ---
